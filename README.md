@@ -13,3 +13,5 @@ PROJECT OBJECTIVE:
 1. To predict Customer Churn.
 2. Using various ML algorithms to build prediction models and to evaluate the accuracy, correlation between the variables and performance of these models.
 3. We predict behavior to retain customers and try to analyze all relevant customer data and develop focused customer retention programs. 
+4. Building different models to check which model is best for our churn prediction.
+
