@@ -1,6 +1,6 @@
 # Telecom-Churn-M.L-Project
 Introduction:
-Churn Prediction is one of the most popular used in business. It consists of detecting customers who are likely to cancel a subscription to a service.
+Churn Prediction is most popularly used in business. It consists of detecting customers who are likely to cancel a subscription to a service.
 It is very easy for customers to switch from one service provider to another service provider for better price rates or service quality.
  
 Business Problem Overview:
@@ -13,8 +13,3 @@ PROJECT OBJECTIVE:
 1.To predict Customer Churn.
 2.Using various ML algorithms to build prediction models and to evaluate the accuracy, correlation between the variables and performance of these models.
 3.We predict behavior to retain customers and try to analyze all relevant customer data and develop focused customer retention programs. 
-
-
-
-
-
